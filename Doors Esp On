@@ -1,8 +1,8 @@
 -- Credit me when you are using this for your gui
 
-local partName = "YourPartName" -- Replace with the name of the specific part you want to create ESP for
+local partName = "Door" -- Replace with the name of the specific part you want to create ESP for
 
-local espText = "ESP" -- Text to display in the ESP
+local espText = "Door" -- Text to display in the ESP
 
 
 
